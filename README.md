@@ -9,4 +9,4 @@ Read, show and save image
 Basic concept of image
 
 ## Class three
-Read and change pixel
+Read, check and change pixel

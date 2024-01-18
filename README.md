@@ -10,3 +10,6 @@ Basic concept of image
 
 ## Class three
 Read, check and change pixel
+
+## Class four
+Deal pixel with numpy

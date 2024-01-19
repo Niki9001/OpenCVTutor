@@ -13,3 +13,6 @@ Read, check and change pixel
 
 ## Class four
 Deal pixel with numpy
+
+## Class five
+Get image attribute

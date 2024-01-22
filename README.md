@@ -21,4 +21,10 @@ Get image attribute
 ROI
 
 ## Class seven
-Seperate channels and merge channes
+Seperate channels and merge channels
+
+## Class eight
+Adding layer of image
+
+## Class nine
+Image blending

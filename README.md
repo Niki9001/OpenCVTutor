@@ -16,3 +16,9 @@ Deal pixel with numpy
 
 ## Class five
 Get image attribute
+
+## Class six
+ROI
+
+## Class seven
+Seperate channels and merge channes

@@ -28,3 +28,12 @@ Adding layer of image
 
 ## Class nine
 Image blending
+
+## Class ten
+Image type change
+
+## Class eleven
+Image resize
+
+## Class twelve
+Flip the image

@@ -37,3 +37,9 @@ Image resize
 
 ## Class twelve
 Flip the image
+
+## Class thirteen
+Intro to Thresholding
+
+## Class fourteen
+Threshold in using

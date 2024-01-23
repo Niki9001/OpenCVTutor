@@ -1,5 +1,6 @@
 # OpenCVTutor
 This is a course to introduce opencv with an example at the end of course.
+At the end of this course, probably you can do a project to recoginize license plate.
 If you have any question, please send me an email, my email address is w0470221@nscc.ca
 
 ## Class one

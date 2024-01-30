@@ -44,3 +44,6 @@ Intro to Thresholding
 
 ## Class fourteen
 Threshold in using
+
+## Class fifth
+Average filtering

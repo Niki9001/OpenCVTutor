@@ -46,10 +46,13 @@ Intro to Thresholding
 Threshold in using
 
 ## Class fifteen
-Average filter
+Average filtering
 
 ## Class sixteen
-Box filter
+Box filtering
 
 ## Class seventeen
-Gaussian filter
+Gaussian filtering
+
+## Class eighteen
+Median filtering

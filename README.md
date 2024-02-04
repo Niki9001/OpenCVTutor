@@ -45,5 +45,8 @@ Intro to Thresholding
 ## Class fourteen
 Threshold in using
 
-## Class fifth
+## Class fifteen
 Average filtering
+
+## Class sixteen
+Box filter

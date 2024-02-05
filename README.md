@@ -1,6 +1,7 @@
 # OpenCVTutor
 This is a course to introduce opencv with an example at the end of course.
 At the end of this course, probably you can do a project to recoginize license plate.
+The path in each file is based on my laptop or my desktop, if you have trouble to load it, probably you need to change it.
 If you have any question, please send me an email, my email address is w0470221@nscc.ca
 
 ## Class one
@@ -56,3 +57,6 @@ Gaussian filtering
 
 ## Class eighteen
 Median filtering
+
+## Class nineteen
+Image erosion
